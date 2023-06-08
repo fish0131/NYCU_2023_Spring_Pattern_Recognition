@@ -12,3 +12,4 @@ Train a model to predict all the digits in the image.
 Task 1: Single character in the image.  
 Task 2: Two characters in the image (order matters).  
 Task 3: Four characters in the image (order matters).
+Kaggle competition: https://www.kaggle.com/competitions/captcha-hacker-2023-spring/
